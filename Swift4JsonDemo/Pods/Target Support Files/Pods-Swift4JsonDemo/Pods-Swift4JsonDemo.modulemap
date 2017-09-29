@@ -1,0 +1,6 @@
+framework module Pods_Swift4JsonDemo {
+  umbrella header "Pods-Swift4JsonDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
